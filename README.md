@@ -7,7 +7,7 @@ Usage of ANNICAS:
 -----------------------------------------------------------------------------------------------------
  ANNICAS: 	ANN based Image Categorization and Analysis Software
 		Version 1.0, 2022
-		send requests/comments to markus.hohle@berkeley.edu
+		send requests/comments to cjung_data_science@icloud.com or/and markus.hohle@berkeley.edu
 -----------------------------------------------------------------------------------------------------
 
 
@@ -201,7 +201,7 @@ Requirements:			Matlab toolboxes (version 2021b or later)
 
 
 We publish our codes in order to make the training process more transparent for the user. Please
-send bug reports to markus.hohle@berkeley.edu
+send bug reports to cjung_data_science@icloud.com or/and markus.hohle@berkeley.edu
 See comments in the source code for more details. Note, that we ran learningSquaresFind2.m on
 a linux machine. Therefore, some commands like "ls" vs "dir" might differ. 
 
@@ -215,7 +215,7 @@ Note that these specifications have been adapted to our internal workflow. You m
 the code significantly in order to adapted to your workflow (see section 1) and 3) in the source
 code). We optained the best performance using darknet19. 
 learningPixelVals5.m generates the input network for CategorizingPixelVals9.m.
-Please send bug reports to markus.hohle@berkeley.edu
+Please send bug reports to cjung_data_science@icloud.com or/and markus.hohle@berkeley.edu
 
 Requirements:			Matlab toolboxes (version 2021b or later)
 
